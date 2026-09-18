@@ -6,3 +6,9 @@ Este é um exemplo para demonstrar o uso básico do Git e Github.
 - Git
 - GitHub
 - Markdown
+
+## Adicionando conteúdo
+
+---
+
+## Como trabalhar com Git
